@@ -1,0 +1,22 @@
+/*
+
+1. centrality
+
+http://www2.unb.ca/~ddu/6634/Lecture_notes/Lecture_4_centrality_measure.pdf
+
+degree centrality
+degree is the number of nodes at distance one
+
+
+store nodes in PQ 
+comparator = # of adjacent nodes
+
+2. clustering coefficient
+
+3. Degeneracy
+
+4. interesting maximal cliques
+
+
+
+*/
